@@ -21,7 +21,7 @@
     "nib": "1.0.x",
     "node-uuid": "1.4.x",
     "pkgcloud": "0.8.x",
-    "sass": "0.5.x",
+    "node-sass": "0.7.x",
     "snockets": "1.3.x",
     "stylus": "0.40.x"
   },
